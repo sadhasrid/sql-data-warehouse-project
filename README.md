@@ -1,5 +1,4 @@
-# sql-data-warehouse-project
-# 🧠 SQL Data Warehouse & Analytics Project
+# Data Warehouse & Analytics Project
 
 Welcome to my **SQL Data Warehouse & Analytics** repository! 🚀
 This project is a complete **data engineering and analytics pipeline**, designed to showcase how structured data can be transformed into **business-ready insights**. From building a robust **data warehouse** to performing **BI reporting**, it mirrors real-world analytics workflows followed by top data teams.
