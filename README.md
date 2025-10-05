@@ -1,67 +1,56 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 🧠 SQL Data Warehouse & Analytics Project
-```markdown
-# 🧠 SQL Data Warehouse & Analytics Project  
 
-Welcome to my **SQL Data Warehouse & Analytics** repository! 🚀  
-This project is a complete **data engineering and analytics pipeline**, designed to showcase how structured data can be transformed into **business-ready insights**. From building a robust **data warehouse** to performing **BI reporting**, it mirrors real-world analytics workflows followed by top data teams.  
+Welcome to my SQL Data Warehouse & Analytics repository! 🚀
+This project is a complete data engineering and analytics pipeline, designed to showcase how structured data can be transformed into business-ready insights. From building a robust data warehouse to performing BI reporting, it mirrors real-world analytics workflows followed by top data teams.
 
----
+🎯 Project Overview
 
-## 🎯 Project Overview  
+The goal of this project is to design an end-to-end data warehouse solution using SQL. It involves:
 
-The goal of this project is to design an **end-to-end data warehouse solution** using SQL. It involves:  
+Building a data model from raw ERP & CRM datasets.
 
-- 🏗️ **Data Engineering:** Building a centralized warehouse and integrating ERP + CRM data.  
-- 🧹 **Data Cleaning:** Ensuring high data quality with validation and preprocessing.  
-- 🔗 **Data Integration:** Designing relational models and unifying sources.  
-- 📊 **Analytics:** Running SQL queries for insights & KPIs.  
-- 📖 **Documentation:** Clear explanation of models and steps followed.  
+Performing data cleaning, integration, and transformation.
 
----
+Implementing SQL-based analytics to uncover trends and insights.
 
-## 🧩 Key Components  
+Demonstrating industry-grade practices in data quality, documentation, and reporting.
 
-### 🏗️ Data Engineering  
-- **Objective:** Develop a centralized SQL Server data warehouse.  
-- **Data Sources:** ERP and CRM systems (CSV).  
-- **Tasks:**  
-  - Cleanse raw data  
-  - Integrate multiple sources  
-  - Design schema & data model  
-  - Document processes  
+🧩 Key Components
+🏗️ Data Engineering
 
----
+Objective: Develop a centralized SQL Server data warehouse.
 
-### 📊 Data Analytics  
-- **Objective:** Deliver actionable insights using SQL-based BI queries.  
-- **Focus Areas:**  
-  - 📌 **Customer Behavior Analysis**  
-  - 📌 **Product Performance Evaluation**  
-  - 📌 **Sales Trends & KPIs**  
+Data Sources: ERP and CRM systems (CSV).
 
-These insights empower stakeholders with **key business metrics**, enabling **data-driven decisions**.  
+Tasks: Cleansing, integration, schema design, and documentation.
 
----
+📊 Data Analytics
 
-## 💡 Tools & Technologies  
+Objective: Deliver actionable insights using SQL-based BI queries.
 
-- 🗄️ **SQL Server** – Data storage & querying  
-- 🐍 **Python / Power BI (optional)** – Data transformation & visualization  
-- 🖥️ **GitHub** – Version control & documentation  
+Focus Areas:
 
----
+Customer Behavior Analysis
 
-## 🏁 Outcome  
+Product Performance Evaluation
 
-This project demonstrates my ability to **design, implement, and document** a real-world analytics solution, following **best practices in data engineering and BI**.  
-👉 The insights derived empower stakeholders to make **strategic decisions backed by data**.  
+Sales Trends & KPIs
 
----
+💡 Tools & Technologies
 
-## 📚 Author  
+SQL Server – Data storage & querying
 
-**Sadha** — *AI & Data Science Enthusiast* 👩‍💻  
-> Exploring the bridge between raw data and strategic intelligence.  
-```
+Python / Power BI (optional) – Data transformation & visualization
+
+GitHub – Version control & project documentation
+
+🏁 Outcome
+
+This project demonstrates my ability to design, implement, and document a real-world analytics solution, following data engineering best practices. The insights derived empower stakeholders to make data-driven business decisions.
+
+📚 Author
+
+Sadha — AI & Data Science Enthusiast 👩‍💻
+
+Exploring the bridge between raw data and strategic intelligence.
